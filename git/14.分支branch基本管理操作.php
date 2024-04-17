@@ -24,3 +24,8 @@ git branch -d 分支名 —— 删除分支
 
 我是t2测试冲突，就要跟t1干
 
+分支管理
+
+git branch --merged —— 显示已经合并的分支
+
+git branch --no-merged —— 显示没有合并的分支
