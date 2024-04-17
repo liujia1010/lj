@@ -29,3 +29,5 @@ git branch -d 分支名 —— 删除分支
 git branch --merged —— 显示已经合并的分支
 
 git branch --no-merged —— 显示没有合并的分支
+
+git branch -D 分支名 —— 强制删除不需要的分支，即使这个分支没有合并
