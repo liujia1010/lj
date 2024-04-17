@@ -1,0 +1,1 @@
+git archive 分支名 --prefix='压缩包名称/' --forma=zip > 压缩包名称.zip —— 生成一个名字（）的压缩包
