@@ -16,4 +16,23 @@ vim id_rsa.pub
 
 然后复制创建项目的SSH链接
 
-进入本地的git 项目执行 git clone gitSSH链接
+进入本地的git 项目
+
+添加远程仓库
+
+git remote add origin gitSSH链接
+
+查看远程库
+
+git remote -V
+
+推送数据到远程仓库
+
+git push -u origin master
+
+删除远程仓库关联
+
+git remote rm origin
+
+通过clone 克隆的仓库（执行 git clone gitSSH链接），本地与远程已经自动关联，上面几步可以省略。
+
