@@ -1,0 +1,1 @@
+应用场景：本地把代码部署到GitHub，GitHub将代码自动部署到自己的Web服务器，原理是当本地git push数据到Github ,Github的钩子webhooks会发送一个请求到web服务器，服务器调用webhook.php文件执行git pull命令拉去Github文件
