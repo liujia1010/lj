@@ -20,7 +20,7 @@ vim id_rsa.pub
 
 添加远程仓库
 
-git remote add origin gitSSH链接 —— origin 是远程仓库的名称
+git remote add origin gitSSH链接 —— origin 是远程仓库的名称，更改远程仓库的名称
 
 查看远程库
 
