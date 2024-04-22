@@ -1,0 +1,2 @@
+在git仓库中创建一个名为.gitignore 的文件，用来告诉git哪些文件可以不提交到暂存区
+subl .gitignore
