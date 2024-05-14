@@ -9,3 +9,4 @@ Ctrl+L  清屏
 rm -rf 删除文件夹
 touch a.php  创建一个名字为a.php的空白文件
 cat 文件名  显示文件中的内容
+chown -R www 文件夹   将文件夹的所有者改为www用户
